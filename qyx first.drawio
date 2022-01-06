@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T06:11:22.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wd4_rJFindDBIjIMWZLl" version="16.2.2" type="github"><diagram id="zdEymZCHrjLcuN3iB8jA" name="Page-1">1ZhRr5owFMc/zXm8CdAC7SMgzoftZS5Z9thJr7CgNVivuk+/FgqI1mSL18FNTGz/PS30x+k5BwAlm9Oniu3yLyLjJXhOdgI0A89zHUTUn1bOjeKHtBHWVZEZo15YFr95O9OohyLj+4GhFKKUxW4orsR2y1dyoLGqEseh2asoh1fdsTW/EZYrVt6q34tM5o1KvLDXF7xY5+2V3cDsb8NaY7OTfc4ycbyQUAooqYSQTWtzSnip4bVcmnnzO6PdjVV8K/9mwme8WPwg1UuY//yGA/6Lf12SF69Z5Y2VB7NhSDHEBGgEqQ8kgshcaC/PLZNKHLYZ18s6gOJjXki+3LGVHj0qL1BaLjel6rmq+cYrWSieUVmst0qTQhtkbJ/XK2gTZoZK/qp2EptbUvP46e5e3Y6gcj0uNlxWZ2ViJnjEQDde5zmmf+yfIQqMll88v05kxm/W3do9WtUwdP+BtG8hHQBNIK5JUwoRqdlH+vcQ8gFcO/93YIy8IWOMbxl3z+GSMX0W4sCCOARCIEpqZ54DDWroPsSObpAZROljrN8DZHgFktyCtHFEz+JI7gUFFQ40NRUU/AlyxNSfFkdq4di4oasdU0GMyMc46d4wmlpOuutZyLrhs9C25cEV23gGVDUo0BhIMLpHIhwOwVk8MvyfHum69iw0r0+0SkERkGRy2LpMMxo2W5lEdMyLcN2YA3mwTHoGtmBsbMiakKnKJahPJB8gAOLrcnICARBbT7JO0n6dZYIpnGTfGabk8QOgvQw3JU2oEzIZv5K5xjZ+ALSX1rF6e8Ganyqw4wlie14AVN3+zb0eu/j+gdI/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-06T06:18:35.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="S4II97mKQM6lwzvBp3DR" version="16.2.2" type="github">
+  <diagram id="zdEymZCHrjLcuN3iB8jA" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-2" value="业务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-5" value="机器人" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-6" value="爬取数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-8" value="上报数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-9" value="发票" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="122" y="80" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-10" value="归集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="147" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-11" value="查验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="147" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-12" value="认证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="147" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-13" value="申报" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-14" value="清册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-15" value="报税" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4HHY8r-7hbT46ejeRS8-16" value="缴款" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="39hTGtykct5_lLaXmXcA-1" value="运营" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="39hTGtykct5_lLaXmXcA-2" value="调度任务监控" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="289" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="39hTGtykct5_lLaXmXcA-5" value="发票查验统计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="101" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="39hTGtykct5_lLaXmXcA-9" value="申报统计" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="195" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
