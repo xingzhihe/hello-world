@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T02:31:34.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SOYtvP3qxrFcbFHCChBh" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T02:34:31.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Qo2wrt3WoNEAnzXDKj1S" version="16.2.2" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="ndFSLWlLieNPHFFfm7gC-20" value="多维分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-21" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-21" value="数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-22" value="算法库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -96,6 +96,12 @@
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-34" value="数据安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-35" value="数据安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-36" value="可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
