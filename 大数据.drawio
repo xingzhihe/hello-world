@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T08:51:36.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4XsdDNUd1vPC_vTRGmSq" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T09:02:47.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="TDUiUSkPtUU3N_28C0hc" version="16.2.2" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
     <mxGraphModel dx="1329" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -153,6 +153,24 @@
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-64" value="金融征信" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="306" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-69" value="财务记账" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="888" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-70" value="发票数据" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="888" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-71" value="申报数据" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="888" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-72" value="工商数据" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="888" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-73" value="司法" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="873" y="888" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-74" value="舆情数据" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="888" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
