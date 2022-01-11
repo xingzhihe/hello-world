@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T09:24:50.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eSl5ime-aSn8yQA5bdGz" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T09:26:58.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UIAoVKbW-Gjkisyo_q-j" version="16.2.2" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
     <mxGraphModel dx="1329" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -220,8 +220,20 @@
         <mxCell id="ndFSLWlLieNPHFFfm7gC-91" value="远程工具" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="858" y="1254" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-92" value="Logs" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1254" width="80" height="40" as="geometry" />
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-92" value="消息队列" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1137" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-93" value="分布式锁/事务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1137" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-94" value="调度管理" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="1137" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-95" value="工作流" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="1137" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-96" value="查询" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="683" y="1137" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
