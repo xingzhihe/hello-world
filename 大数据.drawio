@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T03:24:49.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="c_XBJbb4Os8_EbcKcY_X" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T03:27:45.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="BzTSgcM-mJpZ8DZGfPUs" version="16.2.2" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
     <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="688" y="698" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-12" value="存储计算" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="275" y="440" width="550" height="170" as="geometry" />
+          <mxGeometry x="275" y="440" width="550" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-13" value="实时计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="480" width="120" height="40" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="715" y="480" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-17" value="数据湖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="560" width="480" height="40" as="geometry" />
+          <mxGeometry x="308" y="580" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-18" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="295" y="264" width="798" height="110" as="geometry" />
+          <mxGeometry x="860" y="424" width="435" height="146" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-19" value="即席查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="200" width="120" height="40" as="geometry" />
@@ -62,40 +62,37 @@
           <mxGeometry x="540" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-22" value="算法库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="1147" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-23" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="1147" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-24" value="模型应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="841" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="1018" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-25" value="模型评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="711" y="300" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-26" value="资源管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="520" width="380" height="40" as="geometry" />
+          <mxGeometry x="888" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-28" value="样本数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="323" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="888" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-29" value="特征处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="1017" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-31" value="数据治理" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="160" height="310" as="geometry" />
+          <mxGeometry x="60" y="410" width="160" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-32" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-33" value="数据质量管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-34" value="数据标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-35" value="数据安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-36" value="可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="200" width="120" height="40" as="geometry" />
