@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T03:37:43.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ErzAlrtXNHZqWDbJnraz" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T03:38:27.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7iP8ISN7Qu-HTmO7gIru" version="16.2.2" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
     <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,13 +53,13 @@
           <mxGeometry x="650" y="490" width="350" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-19" value="即席查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-20" value="多维分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-21" value="数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="550" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-22" value="算法库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="904" y="580" width="80" height="40" as="geometry" />
@@ -95,31 +95,31 @@
           <mxGeometry x="80" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-36" value="可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-37" value="运营/自助报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-38" value="标签加工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="837" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-40" value="BOSS驾驶舱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-41" value="大屏展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-42" value="财税风险扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-43" value="企业画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="710" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-44" value="智能报税" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-45" value="数据挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-46" value="API采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="764" y="698" width="80" height="40" as="geometry" />
