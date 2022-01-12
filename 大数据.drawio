@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T09:20:50.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Gxq1iqMNe5DXsBO5uh7A" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T09:22:04.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1RoEboLdgsuMvCSom40L" version="16.2.4" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
     <mxGraphModel dx="1221" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -262,24 +262,6 @@
         <mxCell id="ndFSLWlLieNPHFFfm7gC-110" value="......" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="247" y="1311" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-111" value="申报服务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1280" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-112" value="申报服务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1319" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-113" value="申报服务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1361" width="100" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-114" value="业务服务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="651.5" y="1280" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-115" value="业务服务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="651.5" y="1317" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-116" value="业务服务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="651.5" y="1357" width="100" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-117" value="应用访问权限 认证/鉴权" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="255.5" y="988" width="159.5" height="30" as="geometry" />
         </mxCell>
@@ -366,6 +348,36 @@
         </mxCell>
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-25" value="服务N" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="1347" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-26" value="申报服务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;verticalAlign=top;spacingBottom=0;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="439" y="1178" width="178" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-27" value="服务1" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="1239" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-28" value="服务2" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="1275" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-29" value="......" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="1312" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-30" value="服务N" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="1348" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-31" value="其他业务服务" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;verticalAlign=top;spacingBottom=0;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="648" y="1178" width="178" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-32" value="服务1" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1239" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-33" value="服务2" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1275" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-34" value="......" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1312" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-35" value="服务N" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1348" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
