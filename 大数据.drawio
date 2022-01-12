@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T07:35:11.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="okC5bBdLkg6n3Yz7r5lJ" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T08:07:52.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="O2F3O_yxSt2lTiKWSbTo" version="16.2.4" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
-    <mxGraphModel dx="1038" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,7 +292,7 @@
         <mxCell id="ndFSLWlLieNPHFFfm7gC-117" value="应用访问权限&amp;nbsp; 鉴权/认证" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="1044" width="159.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndFSLWlLieNPHFFfm7gC-118" value="流量控制&amp;nbsp; 限流/熔断/超时" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
+        <mxCell id="ndFSLWlLieNPHFFfm7gC-118" value="流量控制 超时/限流/熔断" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="255.5" y="1084" width="159.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-119" value="加解密/协议转换" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
@@ -315,6 +315,42 @@
         </mxCell>
         <mxCell id="ndFSLWlLieNPHFFfm7gC-125" value="预警" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="711.5" y="1142" width="159.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-1" value="消&lt;br&gt;息&lt;br&gt;队&lt;br&gt;列" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="868" y="1303" width="37" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-2" value="服务治理" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="948" y="1201" width="152" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-3" value="Spring boot Admin监控" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1170.5" y="1327" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-4" value="Druid连接池监控" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="1387" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-5" value="调用链路跟踪" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="952.5" y="1443" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-6" value="日志中心" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="952.5" y="1493" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-7" value="集群负载监控" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="952.5" y="1604" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-8" value="集群服务器负载监控" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1362" y="1483" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-9" value="限流/熔断/降级" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1351" y="1429" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-10" value="流量监控&lt;br&gt;限流/熔断/降级" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="952.5" y="1541" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-11" value="配置中心" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="948" y="1380" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-12" value="注册中心" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="948" y="1327" width="149" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
