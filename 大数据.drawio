@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T08:07:52.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="O2F3O_yxSt2lTiKWSbTo" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T08:12:31.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JKfs5MjMg9yDc5VzYBlB" version="16.2.4" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
     <mxGraphModel dx="1221" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -322,35 +322,44 @@
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-2" value="服务治理" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="948" y="1201" width="152" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-3" value="Spring boot Admin监控" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-3" value="Maven" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1170.5" y="1327" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-4" value="Druid连接池监控" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-4" value="Git" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1174" y="1387" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-5" value="调用链路跟踪" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="952.5" y="1443" width="149" height="40" as="geometry" />
+          <mxGeometry x="945" y="1412" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-6" value="日志中心" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="952.5" y="1493" width="149" height="40" as="geometry" />
+          <mxGeometry x="945" y="1462" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-7" value="集群负载监控" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="952.5" y="1604" width="149" height="40" as="geometry" />
+          <mxGeometry x="945" y="1558" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-8" value="集群服务器负载监控" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1362" y="1483" width="149" height="40" as="geometry" />
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-8" value="Docker" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1179.5" y="1493" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-9" value="限流/熔断/降级" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1351" y="1429" width="149" height="40" as="geometry" />
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-9" value="Jenkins" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1168.5" y="1439" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-10" value="流量监控&lt;br&gt;限流/熔断/降级" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="952.5" y="1541" width="149" height="40" as="geometry" />
+          <mxGeometry x="945" y="1510" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-11" value="配置中心" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="948" y="1380" width="149" height="40" as="geometry" />
+          <mxGeometry x="940.5" y="1349" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-12" value="注册中心" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="948" y="1327" width="149" height="40" as="geometry" />
+          <mxGeometry x="940.5" y="1296" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-13" value="Kubernetes" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1170.5" y="1548" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-14" value="Jira" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="1595" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-15" value="devops" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="1204" width="152" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
