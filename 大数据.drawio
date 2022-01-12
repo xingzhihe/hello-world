@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T11:44:59.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="y77aMtLQvMaAIAq01iof" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T11:58:38.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="79AAyHIpFDE3pcApmZYM" version="16.2.4" type="github">
   <diagram id="H7_tCYUHHZJKz_Q6d8IM" name="第 1 页">
-    <mxGraphModel dx="1483" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,6 +402,18 @@
         </mxCell>
         <mxCell id="LN4RIfl6_Ic5JrLGgOFw-16" value="服务依赖拓扑" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="LN4RIfl6_Ic5JrLGgOFw-48">
           <mxGeometry x="16.5" y="297" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-51" value="Wiki" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="1653" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-52" value="持续集成" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="1705" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-53" value="持续交付" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1331.5" y="1764" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN4RIfl6_Ic5JrLGgOFw-54" value="持续部署" style="whiteSpace=wrap;html=1;strokeColor=#BB5933;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1329.5" y="1816" width="149" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
