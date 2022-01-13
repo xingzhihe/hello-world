@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T03:39:37.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="HFJ8CXGco6n5WOkDAHPd" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T03:42:14.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="3X1W5CbMe46i_Vt90Cwu" version="16.2.4" type="github">
   <diagram id="-JOhpaFIr6ul0aW_N_dZ" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,16 +131,19 @@
           <mxGeometry x="190" y="960" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-39" value="数据加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1000" width="80" height="30" as="geometry" />
+          <mxGeometry x="306" y="960" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-40" value="网络加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1040" width="80" height="30" as="geometry" />
+          <mxGeometry x="306" y="1000" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-41" value="爬虫风险" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1051" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-42" value="访问控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="960" width="80" height="30" as="geometry" />
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-44" value="数据脱敏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1005" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-45" value="访问控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="960" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
