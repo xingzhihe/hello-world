@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T03:24:37.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="vF20oHd6EnHeLisfoBRt" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T03:35:03.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="I6d6i0EoHTZTIo5cSMk4" version="16.2.4" type="github">
   <diagram id="-JOhpaFIr6ul0aW_N_dZ" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,22 +8,22 @@
           <mxGeometry x="20" y="650" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo1XsZpEyyAop7OG32ix-2" value="采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="665" width="75" height="30" as="geometry" />
+          <mxGeometry x="220" y="665" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qo1XsZpEyyAop7OG32ix-3" value="传输" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322" y="665" width="75" height="30" as="geometry" />
+          <mxGeometry x="322" y="665" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qo1XsZpEyyAop7OG32ix-4" value="存储" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="665" width="75" height="30" as="geometry" />
+          <mxGeometry x="425" y="665" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qo1XsZpEyyAop7OG32ix-5" value="处理/使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="527" y="665" width="75" height="30" as="geometry" />
+          <mxGeometry x="527" y="665" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qo1XsZpEyyAop7OG32ix-6" value="交换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="665" width="75" height="30" as="geometry" />
+          <mxGeometry x="630" y="665" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qo1XsZpEyyAop7OG32ix-7" value="销毁" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="732" y="665" width="75" height="30" as="geometry" />
+          <mxGeometry x="732" y="665" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qo1XsZpEyyAop7OG32ix-8" value="信息安全等级保护&lt;br&gt;三要素CIA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="30" width="150" height="60" as="geometry" />
@@ -41,49 +41,49 @@
           <mxGeometry x="20" y="720" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-2" value="数据合规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="730" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="730" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-3" value="数据不可用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="930" width="100" height="40" as="geometry" />
+          <mxGeometry x="402" y="970" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-4" value="数据未授权访问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="830" width="100" height="40" as="geometry" />
+          <mxGeometry x="405" y="870" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-5" value="数据泄露" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="770" width="100" height="40" as="geometry" />
+          <mxGeometry x="317" y="810" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-6" value="数据篡改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="880" width="100" height="40" as="geometry" />
+          <mxGeometry x="405" y="920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-14" value="数据泄露" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="760" width="100" height="40" as="geometry" />
+          <mxGeometry x="417" y="800" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-15" value="数据泄露" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="760" width="100" height="40" as="geometry" />
+          <mxGeometry x="524" y="800" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-16" value="数据未授权访问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="830" width="100" height="40" as="geometry" />
+          <mxGeometry x="524" y="870" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-17" value="数据泄露" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="637" y="760" width="100" height="40" as="geometry" />
+          <mxGeometry x="637" y="800" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-18" value="数据泄露" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="760" width="53" height="40" as="geometry" />
+          <mxGeometry x="743" y="800" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-19" value="数据合规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="720" width="100" height="40" as="geometry" />
+          <mxGeometry x="322" y="730" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-20" value="数据合规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="710" width="100" height="40" as="geometry" />
+          <mxGeometry x="425" y="730" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-21" value="数据合规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="710" width="100" height="40" as="geometry" />
+          <mxGeometry x="527" y="730" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-22" value="数据合规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="710" width="100" height="40" as="geometry" />
+          <mxGeometry x="630" y="730" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-23" value="数据合规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="710" width="63" height="40" as="geometry" />
+          <mxGeometry x="732" y="730" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-24" value="信息安全等级保护测评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="120" width="170" height="60" as="geometry" />
@@ -125,19 +125,22 @@
           <mxGeometry x="451" y="490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-37" value="授权原则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1000" width="75" height="30" as="geometry" />
+          <mxGeometry x="190" y="940" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-38" value="明示原则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="950" width="75" height="30" as="geometry" />
+          <mxGeometry x="190" y="890" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-39" value="数据加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="990" width="75" height="30" as="geometry" />
+          <mxGeometry x="304.5" y="1060" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-40" value="网络加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="1030" width="75" height="30" as="geometry" />
+          <mxGeometry x="304.5" y="1100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-41" value="爬虫风险" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1060" width="75" height="30" as="geometry" />
+          <mxGeometry x="190" y="1000" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-42" value="访问控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304.5" y="1020" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
