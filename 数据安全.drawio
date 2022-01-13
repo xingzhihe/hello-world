@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T08:00:37.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sW9QhmocfkjD_Nu7TYhz" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T08:01:19.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="NoISlNnkES9VacIhW7E5" version="16.2.4" type="github">
   <diagram id="-JOhpaFIr6ul0aW_N_dZ" name="第 1 页">
     <mxGraphModel dx="1298" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,12 +193,6 @@
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-191" value="数据防泄漏" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="BcR8lCa2Gur--fkkyS4Y-195">
           <mxGeometry x="127" y="99" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-198" value="数据合规" style="whiteSpace=wrap;html=1;strokeColor=#99CCFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298" y="1021" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-203" value="数据泄露" style="whiteSpace=wrap;html=1;strokeColor=#99CCFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298" y="1051" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-233" value="硬销毁" style="whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="1009" y="1210" width="150" height="30" as="geometry" />
         </mxCell>
@@ -321,6 +315,15 @@
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-207" value="数据不可用" style="whiteSpace=wrap;html=1;strokeColor=#99CCFF;strokeWidth=2;" vertex="1" parent="BcR8lCa2Gur--fkkyS4Y-245">
           <mxGeometry y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-248" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="298" y="1021" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-198" value="数据合规" style="whiteSpace=wrap;html=1;strokeColor=#99CCFF;strokeWidth=2;" vertex="1" parent="BcR8lCa2Gur--fkkyS4Y-248">
+          <mxGeometry width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-203" value="数据泄露" style="whiteSpace=wrap;html=1;strokeColor=#99CCFF;strokeWidth=2;" vertex="1" parent="BcR8lCa2Gur--fkkyS4Y-248">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
