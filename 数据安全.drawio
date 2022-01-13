@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T02:52:03.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ClwchGEkOyiy3fgYS-tN" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T02:55:56.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="H1lwIBN1sGud_Jt7QQiQ" version="16.2.4" type="github">
   <diagram id="-JOhpaFIr6ul0aW_N_dZ" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-23" value="数据不合规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="767" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-24" value="信息安全等级保护测评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="525" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
