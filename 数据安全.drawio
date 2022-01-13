@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T03:01:22.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XxQiIa3k7Y0ZKx4VWwFy" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T03:01:31.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4otIdvtWIqVmdxSzoQDM" version="16.2.4" type="github">
   <diagram id="-JOhpaFIr6ul0aW_N_dZ" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,43 +86,43 @@
           <mxGeometry x="767" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-24" value="信息安全等级保护测评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="500" width="170" height="60" as="geometry" />
+          <mxGeometry x="156" y="550" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-25" value="技术要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="590" width="120" height="40" as="geometry" />
+          <mxGeometry x="81" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-26" value="管理要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="590" width="120" height="40" as="geometry" />
+          <mxGeometry x="305" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-27" value="物理安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="100" height="40" as="geometry" />
+          <mxGeometry x="91" y="710" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-28" value="网络安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="720" width="100" height="40" as="geometry" />
+          <mxGeometry x="91" y="770" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-29" value="主机系统安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="770" width="100" height="40" as="geometry" />
+          <mxGeometry x="91" y="820" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-30" value="应用安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="820" width="100" height="40" as="geometry" />
+          <mxGeometry x="91" y="870" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-31" value="数据安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="880" width="100" height="40" as="geometry" />
+          <mxGeometry x="91" y="930" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-32" value="安全管理机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="660" width="100" height="40" as="geometry" />
+          <mxGeometry x="315" y="710" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-33" value="安全管理制度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="710" width="100" height="40" as="geometry" />
+          <mxGeometry x="315" y="760" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-34" value="人员安全管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="770" width="100" height="40" as="geometry" />
+          <mxGeometry x="315" y="820" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-35" value="系统建设管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="820" width="100" height="40" as="geometry" />
+          <mxGeometry x="315" y="870" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-36" value="系统运维管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="870" width="100" height="40" as="geometry" />
+          <mxGeometry x="315" y="920" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
