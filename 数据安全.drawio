@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T07:10:13.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fO4mEDBexsvMkRuCU8Dh" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T07:12:52.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OYQXAiDA4ZIgTrj9BwN1" version="16.2.4" type="github">
   <diagram id="-JOhpaFIr6ul0aW_N_dZ" name="第 1 页">
     <mxGraphModel dx="903" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,31 +250,25 @@
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-146" value="双因素认证" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650.5" y="758.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-147" value="数据仓库" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-147" value="细粒度授权" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="556.5" y="808.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-148" value="调度管理" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-148" value="强制访问控制" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650.5" y="808.5" width="76.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-150" value="机器学习" style="whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1;fillColor=#FFE5DB;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-150" value="数据监控审计" style="whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1;fillColor=#FFE5DB;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="787.5" y="710.5" width="330" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-154" value="算法库" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1023.5" y="808.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-155" value="模型训练" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1023.5" y="758.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-156" value="模型应用" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-156" value="数据传输监控" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="912.5" y="808.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-157" value="模型评估" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-157" value="共享调用审计" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="801.5" y="808.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-158" value="样本数据管理" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-158" value="数据库审计" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="801.5" y="758.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BcR8lCa2Gur--fkkyS4Y-159" value="特征处理" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
+        <mxCell id="BcR8lCa2Gur--fkkyS4Y-159" value="人员操作审计" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#BB5933;fontColor=#143642;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="912.5" y="758.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BcR8lCa2Gur--fkkyS4Y-160" value="数据资产管理" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=16;fontStyle=1;fillColor=#FFE5DB;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
