@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T01:56:15.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.2.4" etag="jzBg5LRbx65bjYlcpgDx" type="github"><diagram id="-JOhpaFIr6ul0aW_N_dZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-13T02:00:34.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="le36PFqk2XM-IWlgP3OF" version="16.2.4" type="github">
+  <diagram id="-JOhpaFIr6ul0aW_N_dZ" name="第 1 页">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qo1XsZpEyyAop7OG32ix-1" value="生命周期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo1XsZpEyyAop7OG32ix-2" value="采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo1XsZpEyyAop7OG32ix-3" value="传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="90" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo1XsZpEyyAop7OG32ix-4" value="存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="90" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo1XsZpEyyAop7OG32ix-5" value="处理/使用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="90" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo1XsZpEyyAop7OG32ix-6" value="交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="90" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo1XsZpEyyAop7OG32ix-7" value="销毁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752" y="90" width="75" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
