@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T11:11:11.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sCO7CzgkraYZa4Hp-2cT" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T11:13:22.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8K-ExwYxAd5ya4OHGWaa" version="16.2.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -476,6 +476,9 @@
             <mxPoint x="70" y="1660" as="targetPoint" />
             <mxPoint x="147.5" y="1720" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5LpRbifwJaGGcmGT_of5-163" value="&lt;font color=&quot;#000000&quot;&gt;支持延时/定时任务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;fillColor=#ffff88;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="1440" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
