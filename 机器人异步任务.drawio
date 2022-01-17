@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T09:21:20.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="R0mK_L7KLwZWyRBoFZCe" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T09:23:17.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Q9unlwK53kRm-Mh6Ccl-" version="16.2.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
             <mxPoint x="413" y="610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5LpRbifwJaGGcmGT_of5-25" value="分片启动多个任务&lt;br&gt;每个任务单独记载、分片加载???&lt;br&gt;任务运行期间调度是否阻塞???" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;fillColor=#ffff88;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5LpRbifwJaGGcmGT_of5-25" value="&lt;font color=&quot;#000000&quot;&gt;8个分片启动多个任务&lt;br&gt;每个任务定时查询数据库记载任务&lt;/font&gt;&lt;br&gt;数据库压力大" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;fillColor=#ffff88;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="760" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5LpRbifwJaGGcmGT_of5-27" value="工作流配置流程&lt;br&gt;上下文数据通过redis传递&lt;br&gt;Rest服务调用" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
