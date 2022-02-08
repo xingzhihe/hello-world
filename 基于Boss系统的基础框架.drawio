@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T10:05:30.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Qqb0stCFQLmetj0tIx2Q" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T10:11:39.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="p9YuRDnHdnLS6hMso_dW" version="16.5.3" type="github">
   <diagram id="OSP3-zvOweL5_SzKogOt" name="第 1 页">
     <mxGraphModel dx="1447" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,6 +215,9 @@
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--84" value="数据库独立&lt;br&gt;服务部署独立" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1310" y="710" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--85" value="上层业务系统源码中包含此ui框架，只能按照事先约定在相应的目录开发自己的ui页面&lt;br&gt;构造时会拉取此ui框架的最新代码，和业务系统相应目录的代码合并后进行编译构造" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="921" y="1050" width="629" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
