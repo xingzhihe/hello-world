@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T08:59:56.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jbaOQlYVvWpsQldfzIzs" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T09:03:18.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="plsGz6o1DNWe4oeZ_ER6" version="16.5.3" type="github">
   <diagram id="OSP3-zvOweL5_SzKogOt" name="第 1 页">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,24 @@
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--22" value="用户（内部/客户）&lt;br&gt;组织机构&lt;br&gt;身份认证&lt;br&gt;appkey" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--23" value="菜单&lt;br&gt;角色&lt;br&gt;权限" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--24" value="税号&lt;br&gt;登录账号密码&lt;br&gt;企业信息&lt;br&gt;税费种信息&lt;br&gt;资格认定信息" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--25" value="进项发票&lt;br&gt;销项发票" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--26" value="清册&lt;br&gt;申报&lt;br&gt;缴款" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--27" value="输出能力&lt;br&gt;价格体系" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="821" y="290" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--28" value="发票&lt;br&gt;申报&lt;br&gt;查验&lt;br&gt;OCR识别&lt;br&gt;黑名单" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="951" y="290" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
