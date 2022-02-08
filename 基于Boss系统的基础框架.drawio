@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T09:09:13.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Ar2oky2IIgxDRaE-bAom" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T09:10:23.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="iNXWf50uCkQSIK4AIIid" version="16.5.3" type="github">
   <diagram id="OSP3-zvOweL5_SzKogOt" name="第 1 页">
     <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,10 +32,10 @@
           <mxGeometry x="691" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--13" value="风控&lt;br&gt;金融&lt;br&gt;挖掘&lt;br&gt;建模&lt;br&gt;查询" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="951" y="30" width="120" height="90" as="geometry" />
+          <mxGeometry x="951" y="32" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--14" value="监控&lt;br&gt;预警" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="30" width="120" height="90" as="geometry" />
+          <mxGeometry x="1081" y="32" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--15" value="用户中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="120" height="30" as="geometry" />
@@ -59,25 +59,25 @@
           <mxGeometry x="951" y="250" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--22" value="用户（内部/客户）&lt;br&gt;组织机构&lt;br&gt;身份认证&lt;br&gt;appkey" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="170" y="287" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--23" value="菜单&lt;br&gt;角色&lt;br&gt;权限" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="300" y="287" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--24" value="税号&lt;br&gt;登录账号密码&lt;br&gt;企业信息&lt;br&gt;税费种信息&lt;br&gt;资格认定信息" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="430" y="287" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--25" value="进项发票&lt;br&gt;销项发票" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="561" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="561" y="287" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--26" value="清册&lt;br&gt;申报&lt;br&gt;缴款" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="691" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="691" y="287" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--27" value="输出能力&lt;br&gt;价格体系" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="821" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="821" y="287" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--28" value="发票&lt;br&gt;申报&lt;br&gt;查验&lt;br&gt;OCR识别&lt;br&gt;黑名单" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="951" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="951" y="287" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V9ja9C6b1R4F-isLnQs--29" target="V9ja9C6b1R4F-isLnQs--36">
           <mxGeometry relative="1" as="geometry">
