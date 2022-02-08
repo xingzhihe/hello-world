@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T09:10:23.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="iNXWf50uCkQSIK4AIIid" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T09:15:56.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="8QoWezuVW43hZvuYrEqS" version="16.5.3" type="github">
   <diagram id="OSP3-zvOweL5_SzKogOt" name="第 1 页">
     <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
           <mxGeometry x="801" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--36" value="用户中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="610" width="120" height="30" as="geometry" />
+          <mxGeometry x="540" y="640" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V9ja9C6b1R4F-isLnQs--30" target="V9ja9C6b1R4F-isLnQs--36">
           <mxGeometry relative="1" as="geometry">
@@ -125,6 +125,12 @@
             <mxPoint x="620" y="610" as="targetPoint" />
             <mxPoint x="691" y="610" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--46" value="&lt;h1&gt;上层业务系统&lt;/h1&gt;&lt;div&gt;使用基础框架服务&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="480" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--47" value="&lt;h1&gt;基础框架服务&lt;/h1&gt;&lt;div&gt;使用基础的UI框架、用户、组织机构、权限、角色等功能&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="600" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
