@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T08:56:40.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="hqzzpzbguEMGo73icUSv" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T08:59:56.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jbaOQlYVvWpsQldfzIzs" version="16.5.3" type="github">
   <diagram id="OSP3-zvOweL5_SzKogOt" name="第 1 页">
-    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,30 @@
         </mxCell>
         <mxCell id="V9ja9C6b1R4F-isLnQs--14" value="监控&lt;br&gt;预警" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1081" y="30" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--15" value="用户中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--16" value="功能权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--17" value="纳税人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--18" value="发票中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--19" value="申报中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--20" value="商品中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="821" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--21" value="产品行为数据中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="951" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ja9C6b1R4F-isLnQs--22" value="用户（内部/客户）&lt;br&gt;组织机构&lt;br&gt;身份认证&lt;br&gt;appkey" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
