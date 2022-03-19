@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T08:34:30.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="MkvXTTmF8dsXSndP_IHu" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T08:36:33.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="5cG00MbUI9ZjI7nSvLQT" version="16.5.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1024" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,6 +252,24 @@
         <mxCell id="ivkTq8XfYuDbO7q5Ro5L-30" value="existTask" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1.026;exitY=0.251;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="ivkTq8XfYuDbO7q5Ro5L-29" parent="1" source="ivkTq8XfYuDbO7q5Ro5L-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="895" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-32" value=":IRobotTaskService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="984.74" y="685" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ivkTq8XfYuDbO7q5Ro5L-32">
+          <mxGeometry x="45" y="220" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-34" value="RobotTaskUserDto" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;entryX=0.944;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ivkTq8XfYuDbO7q5Ro5L-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="246" as="targetPoint" />
+            <mxPoint x="45" y="246" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-35" value="existTask" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="1" source="ivkTq8XfYuDbO7q5Ro5L-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="906" as="sourcePoint" />
+            <mxPoint x="1029.74" y="906" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
