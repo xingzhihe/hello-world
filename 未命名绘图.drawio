@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T11:06:50.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="DaulooQpf6ZNXboAMLT3" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T11:08:48.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="pbBjLKvBiZ4uUSGwxJqG" version="16.5.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1205" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -601,6 +601,9 @@
         </mxCell>
         <mxCell id="ivkTq8XfYuDbO7q5Ro5L-152" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IAggUtilService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ incokeCreateAgg(String, String, Long): JSONObject&lt;br&gt;+ saveLoginInfoForAgg(Map&amp;lt;String,Object&amp;gt;): Boolean&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getDzswjSession((String): JSONObject&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ invokeCommonAgg(String, JSONObjec): Object&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="850" width="315" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-153" value="«interface»&lt;br&gt;&lt;b&gt;IinvokeAGGStrategy&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="65" width="204" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
