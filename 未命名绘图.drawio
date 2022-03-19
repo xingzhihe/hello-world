@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T09:27:34.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="1F36ERlY-BDC_dSfwzG5" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T09:40:37.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="dp7h8KQ8P6G_n1DLVIym" version="16.5.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="585" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,7 +228,7 @@
           <mxGeometry x="-38" y="172" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ivkTq8XfYuDbO7q5Ro5L-103" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ivkTq8XfYuDbO7q5Ro5L-10">
-          <mxGeometry x="86" y="1135" width="10" height="80" as="geometry" />
+          <mxGeometry x="86" y="1135" width="10" height="145" as="geometry" />
         </mxCell>
         <mxCell id="ivkTq8XfYuDbO7q5Ro5L-15" value="invoke" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;exitX=1.004;exitY=0.157;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="ivkTq8XfYuDbO7q5Ro5L-14" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -456,6 +456,28 @@
         </mxCell>
         <mxCell id="ivkTq8XfYuDbO7q5Ro5L-105" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;saveCollectStatusForEdfReference&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1840" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-106" value=":IDzCustomerService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1760" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-107" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ivkTq8XfYuDbO7q5Ro5L-106">
+          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-110" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ivkTq8XfYuDbO7q5Ro5L-106">
+          <mxGeometry x="50" y="140" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-111" value="updateDzCustomerForCollect" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="ivkTq8XfYuDbO7q5Ro5L-110" parent="ivkTq8XfYuDbO7q5Ro5L-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ivkTq8XfYuDbO7q5Ro5L-108" value="saveCollectStatus" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;exitX=0.976;exitY=0.278;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="ivkTq8XfYuDbO7q5Ro5L-107" parent="1" source="ivkTq8XfYuDbO7q5Ro5L-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="1870" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
