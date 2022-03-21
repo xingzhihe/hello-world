@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T09:51:04.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="RZjkqy99GSYYD2FVEP7E" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-21T09:52:00.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Ptypi4ccbzfkqrMYQ1XZ" version="17.1.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="860" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7" value="创建edf_rpa_user_task" style="" parent="2" vertex="1">
-          <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
+          <mxGeometry x="50" y="110" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8" value="创建edf_rpa_task" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="201" width="110" height="50" as="geometry" />
@@ -58,9 +58,6 @@
         </mxCell>
         <mxCell id="4" value="TaskQueue" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="33" value="process&#xa;command" style="" parent="4" vertex="1">
-          <mxGeometry x="55.5" y="372" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q-DzYaxopEI5NaQJYfeh-42" value="创建RequestRunner" style="" vertex="1" parent="4">
           <mxGeometry x="75.5" y="110" width="110" height="50" as="geometry" />
