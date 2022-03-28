@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T04:20:12.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="qTyCvtpJ9fhR98emJxWG" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T04:30:13.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="n5Pt0ZERTlhCojC_z3jo" version="17.2.4" type="github">
   <diagram id="pesc5ZuLE12qNuX9gS1a" name="第 1 页">
-    <mxGraphModel dx="1125" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,7 +340,7 @@
             <mxPoint x="141" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q86BL1v4JnZUa4Sr2h56-173" value="EBC tax" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-173" value="EBC tax(报表控件)" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="283" y="920" width="260" height="760" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-174" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-173">
