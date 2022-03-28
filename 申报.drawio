@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T07:25:42.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="l_QKB416gWZ0M2-CmSBA" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T07:31:17.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Zahbi7uU4eUyl3BR5sP2" version="17.2.4" type="github">
   <diagram id="pesc5ZuLE12qNuX9gS1a" name="第 1 页">
-    <mxGraphModel dx="1125" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q86BL1v4JnZUa4Sr2h56-255" value="报表中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1720" width="710" height="276" as="geometry" />
+          <mxGeometry x="40" y="1800" width="710" height="276" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-1" value="电子税局" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="280" height="280" as="geometry" />
@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-154" value="电子税局" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="26" y="920" width="257" height="760" as="geometry" />
+          <mxGeometry x="26" y="920" width="257" height="840" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-158" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.496;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.504;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="q86BL1v4JnZUa4Sr2h56-154" source="q86BL1v4JnZUa4Sr2h56-163" target="q86BL1v4JnZUa4Sr2h56-161">
           <mxGeometry relative="1" as="geometry" />
@@ -344,7 +344,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-173" value="EBC tax(报表控件)" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="283" y="920" width="260" height="760" as="geometry" />
+          <mxGeometry x="283" y="920" width="260" height="840" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-174" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-173">
           <mxGeometry x="125" y="40" width="30" height="30" as="geometry" />
@@ -431,8 +431,17 @@
         <mxCell id="q86BL1v4JnZUa4Sr2h56-236" value="加载报表数据" style="" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-173">
           <mxGeometry x="147" y="332" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-275" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;dashed=1;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-173">
+          <mxGeometry x="124" y="776" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-276" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.492;exitY=1.109;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="q86BL1v4JnZUa4Sr2h56-173" source="q86BL1v4JnZUa4Sr2h56-228" target="q86BL1v4JnZUa4Sr2h56-275">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="146.49" y="733.02" as="sourcePoint" />
+            <mxPoint x="139" y="775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-192" value="报表服务" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="543" y="920" width="260" height="760" as="geometry" />
+          <mxGeometry x="543" y="920" width="260" height="840" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-195" value="创建edf_rpa_user_task" style="" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-192">
           <mxGeometry x="75" y="110" width="130" height="30" as="geometry" />
@@ -529,64 +538,64 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-240" value="报表模板分类管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1760" width="280" height="80" as="geometry" />
+          <mxGeometry x="80" y="1840" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-245" value="查询" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1802" width="50" height="25" as="geometry" />
+          <mxGeometry x="230" y="1882" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-246" value="新建" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1802" width="50" height="25" as="geometry" />
+          <mxGeometry x="100" y="1882" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-247" value="修改" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1802" width="50" height="25" as="geometry" />
+          <mxGeometry x="165" y="1882" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-248" value="删除" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="295" y="1802" width="50" height="25" as="geometry" />
+          <mxGeometry x="295" y="1882" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-250" value="报表模板管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1880" width="280" height="80" as="geometry" />
+          <mxGeometry x="80" y="1960" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-251" value="查询" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1921" width="50" height="25" as="geometry" />
+          <mxGeometry x="230" y="2001" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-252" value="新建" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1921" width="50" height="25" as="geometry" />
+          <mxGeometry x="100" y="2001" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-253" value="修改" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1921" width="50" height="25" as="geometry" />
+          <mxGeometry x="165" y="2001" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-254" value="删除" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="295" y="1921" width="50" height="25" as="geometry" />
+          <mxGeometry x="295" y="2001" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-263" value="报表管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="1760" width="280" height="80" as="geometry" />
+          <mxGeometry x="438" y="1840" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-264" value="查询" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="588" y="1802" width="50" height="25" as="geometry" />
+          <mxGeometry x="588" y="1882" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-265" value="新建" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="458" y="1802" width="50" height="25" as="geometry" />
+          <mxGeometry x="458" y="1882" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-266" value="修改" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="523" y="1802" width="50" height="25" as="geometry" />
+          <mxGeometry x="523" y="1882" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-267" value="删除" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="654" y="1802" width="49" height="24.5" as="geometry" />
+          <mxGeometry x="654" y="1882" width="49" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-268" value="报表公式管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="1880" width="280" height="80" as="geometry" />
+          <mxGeometry x="438" y="1960" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-269" value="查询" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="588" y="1921" width="50" height="25" as="geometry" />
+          <mxGeometry x="588" y="2001" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-270" value="新建" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="458" y="1921" width="50" height="25" as="geometry" />
+          <mxGeometry x="458" y="2001" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-271" value="修改" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="523" y="1921" width="50" height="25" as="geometry" />
+          <mxGeometry x="523" y="2001" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-272" value="删除" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="654" y="1921.5" width="49" height="24.5" as="geometry" />
+          <mxGeometry x="654" y="2001.5" width="49" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
