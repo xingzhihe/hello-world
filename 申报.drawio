@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T04:54:10.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="B_lCZtR128HPGDyR94KN" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T04:55:28.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Y3NEtnUcfN8xccZYLiqO" version="17.2.4" type="github">
   <diagram id="pesc5ZuLE12qNuX9gS1a" name="第 1 页">
     <mxGraphModel dx="914" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -561,35 +561,35 @@
         <mxCell id="q86BL1v4JnZUa4Sr2h56-254" value="删除" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="355" y="1915" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="q86BL1v4JnZUa4Sr2h56-256" value="计算引擎" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1750" width="280" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="q86BL1v4JnZUa4Sr2h56-257" value="计算公式管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1880" width="280" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="q86BL1v4JnZUa4Sr2h56-258" value="加载模板" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1780" width="61" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="q86BL1v4JnZUa4Sr2h56-259" value="计算公式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="589.5" y="1780" width="61" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="q86BL1v4JnZUa4Sr2h56-260" value="生成报表" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1780" width="61" height="30.5" as="geometry" />
-        </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-263" value="报表管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="474" y="2000" width="280" height="80" as="geometry" />
+          <mxGeometry x="474" y="1725" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-264" value="查询" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="624" y="2035" width="50" height="25" as="geometry" />
+          <mxGeometry x="624" y="1760" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-265" value="新建" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="494" y="2035" width="50" height="25" as="geometry" />
+          <mxGeometry x="494" y="1760" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-266" value="修改" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="559" y="2035" width="50" height="25" as="geometry" />
+          <mxGeometry x="559" y="1760" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-267" value="删除" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="689" y="2035" width="50" height="25" as="geometry" />
+          <mxGeometry x="690" y="1760.5" width="49" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-268" value="报表公式管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="474" y="1850" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-269" value="查询" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="624" y="1885" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-270" value="新建" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="494" y="1885" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-271" value="修改" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="559" y="1885" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-272" value="删除" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1885.5" width="49" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
