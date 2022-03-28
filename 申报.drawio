@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T02:51:37.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="HIpDv3IC4AIczr5-i3mp" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T02:53:11.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="jQKTne_hTEN8p4BhJsB_" version="17.2.4" type="github">
   <diagram id="pesc5ZuLE12qNuX9gS1a" name="第 1 页">
     <mxGraphModel dx="731" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="440" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-3" value="纳税人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="136" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="168" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-4" value="填写申报表" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="180" y="146" width="80" height="40" as="geometry" />
@@ -36,6 +36,30 @@
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-11" value="注销" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="89" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q86BL1v4JnZUa4Sr2h56-3" target="q86BL1v4JnZUa4Sr2h56-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="260" as="sourcePoint" />
+            <mxPoint x="220" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q86BL1v4JnZUa4Sr2h56-3" target="q86BL1v4JnZUa4Sr2h56-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="160" as="sourcePoint" />
+            <mxPoint x="196.10548131729786" y="129.62028252058008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q86BL1v4JnZUa4Sr2h56-3" target="q86BL1v4JnZUa4Sr2h56-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="80" y="170" as="sourcePoint" />
+            <mxPoint x="190" y="176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q86BL1v4JnZUa4Sr2h56-3" target="q86BL1v4JnZUa4Sr2h56-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="180" as="sourcePoint" />
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
