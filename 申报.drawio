@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T04:08:43.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="0r3ELMxhLZxJgU80Jhbh" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T04:09:56.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="HV29tHqdfQM9LfWPaOuT" version="17.2.4" type="github">
   <diagram id="pesc5ZuLE12qNuX9gS1a" name="第 1 页">
-    <mxGraphModel dx="731" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,6 +430,12 @@
         <mxCell id="q86BL1v4JnZUa4Sr2h56-228" value="更新申报任务" style="" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-173">
           <mxGeometry x="77" y="690" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-229" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.459;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="q86BL1v4JnZUa4Sr2h56-173" source="q86BL1v4JnZUa4Sr2h56-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="148" y="670" as="sourcePoint" />
+            <mxPoint x="137" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-192" value="报表服务" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="543" y="920" width="260" height="760" as="geometry" />
         </mxCell>
@@ -484,6 +490,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="498.52" y="1413.1699999999998" as="sourcePoint" />
             <mxPoint x="610.48" y="1411.97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-230" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.992;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q86BL1v4JnZUa4Sr2h56-222">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361.54" y="1590" as="sourcePoint" />
+            <mxPoint x="360" y="1625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
