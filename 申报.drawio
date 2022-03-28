@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T09:15:39.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="MtbMrILJj2-ib95ubcBQ" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T09:20:24.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="dV8g99FvXSRVjffd9PTp" version="17.2.4" type="github">
   <diagram id="pesc5ZuLE12qNuX9gS1a" name="第 1 页">
     <mxGraphModel dx="975" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -824,10 +824,10 @@
         <mxCell id="q86BL1v4JnZUa4Sr2h56-370" value="+ text: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-364">
           <mxGeometry y="156" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="q86BL1v4JnZUa4Sr2h56-371" value="+ data: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-364">
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-371" value="+ taxReportMapping: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-364">
           <mxGeometry y="182" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="q86BL1v4JnZUa4Sr2h56-390" value="+ data: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-364">
+        <mxCell id="q86BL1v4JnZUa4Sr2h56-390" value="+ reportMapping: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-364">
           <mxGeometry y="208" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="q86BL1v4JnZUa4Sr2h56-389" value="+ data: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q86BL1v4JnZUa4Sr2h56-364">
