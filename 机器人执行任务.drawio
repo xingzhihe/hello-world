@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T09:54:49.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ojdFfJY9-gdUXREaCFyf" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T09:57:24.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EmbiXxA1npYJHr_VUnCU" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1209" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,22 +75,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-6" value="启动机器人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="759" width="80" height="40" as="geometry" />
+          <mxGeometry x="503" y="759" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsMzdrcPBQbbTWnkpNnR-7" target="RsMzdrcPBQbbTWnkpNnR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-7" value="执行任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="759" width="80" height="40" as="geometry" />
+          <mxGeometry x="663" y="759" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsMzdrcPBQbbTWnkpNnR-8" target="RsMzdrcPBQbbTWnkpNnR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-8" value="反馈任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="663" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-9" value="结束任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="503" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsMzdrcPBQbbTWnkpNnR-11" target="RsMzdrcPBQbbTWnkpNnR-12">
           <mxGeometry relative="1" as="geometry" />
