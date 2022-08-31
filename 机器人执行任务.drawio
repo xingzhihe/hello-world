@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T09:48:29.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="otjBIcz0DPLqOLVBzWXz" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T09:49:23.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_WjxroH89i4HDo-dMGJM" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1209" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,10 +46,7 @@
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeOpacity=100;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="75" y="530" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RsMzdrcPBQbbTWnkpNnR-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;strokeOpacity=100;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="960" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-2" value="发起申报任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="75" y="600" width="110" height="40" as="geometry" />
@@ -74,6 +71,9 @@
         </mxCell>
         <mxCell id="RsMzdrcPBQbbTWnkpNnR-11" value="结束申报任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="75" y="880" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsMzdrcPBQbbTWnkpNnR-12" value="结束" style="rounded=1;whiteSpace=wrap;html=1;strokeOpacity=100;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="960" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
