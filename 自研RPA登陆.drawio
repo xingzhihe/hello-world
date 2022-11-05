@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T08:31:39.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EU8kAH6aPT0mog4qLP2S" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T08:33:10.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qRlfjS2CxexDlP4xvYX4" version="20.5.1" type="github">
   <diagram id="nDLk0ft438gr6uN_P_It" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,8 +119,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LRi96Np3pduru6x6Xqpe-23" value="缓存存在时直接会话信息" style="text;html=1;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="90" width="160" height="30" as="geometry" />
+        <mxCell id="LRi96Np3pduru6x6Xqpe-23" value="缓存存在时直接返回会话信息" style="text;html=1;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
