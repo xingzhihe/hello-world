@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T08:35:17.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uvY4sze0iXWyHZOmRQxd" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T08:44:00.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="unyO72EMDK9lmyA_MhTT" version="20.5.1" type="github">
   <diagram id="nDLk0ft438gr6uN_P_It" name="第 1 页">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LRi96Np3pduru6x6Xqpe-25" value="4. 消费MQ启动rpa开始登陆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LRi96Np3pduru6x6Xqpe-11">
+          <mxGeometry x="0.2089" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LRi96Np3pduru6x6Xqpe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LRi96Np3pduru6x6Xqpe-4" target="LRi96Np3pduru6x6Xqpe-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="360" as="sourcePoint" />
@@ -59,6 +64,11 @@
               <mxPoint x="720" y="370" />
               <mxPoint x="720" y="260" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LRi96Np3pduru6x6Xqpe-26" value="6. 保存登陆会话信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LRi96Np3pduru6x6Xqpe-12">
+          <mxGeometry x="0.3944" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LRi96Np3pduru6x6Xqpe-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LRi96Np3pduru6x6Xqpe-2" target="LRi96Np3pduru6x6Xqpe-6">
@@ -92,6 +102,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LRi96Np3pduru6x6Xqpe-27" value="6. 保存登陆结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LRi96Np3pduru6x6Xqpe-14">
+          <mxGeometry x="-0.2826" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LRi96Np3pduru6x6Xqpe-16" value="办税助手" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="100" height="40" as="geometry" />
         </mxCell>
@@ -121,6 +136,18 @@
         </mxCell>
         <mxCell id="LRi96Np3pduru6x6Xqpe-23" value="缓存存在时直接返回会话信息，否则返回任务id和执行中的状态信息" style="text;html=1;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LRi96Np3pduru6x6Xqpe-24" value="5. rpa模拟登陆，获取登陆会话信息" style="text;html=1;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LRi96Np3pduru6x6Xqpe-28" value="不管登陆成功或者失败都要感反馈结果" style="text;html=1;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="380" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LRi96Np3pduru6x6Xqpe-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LRi96Np3pduru6x6Xqpe-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="400" as="sourcePoint" />
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
