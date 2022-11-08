@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T06:26:59.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Zp8ehQUmIULZR5l11mnc" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T06:27:55.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mtoTCTLuF42eupOcLnBJ" version="20.5.2" type="github">
   <diagram id="nDLk0ft438gr6uN_P_It" name="第 1 页">
-    <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1692" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,7 +367,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-67" value="agg-kfpt" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="207" y="560" width="200" height="438" as="geometry" />
+          <mxGeometry x="227" y="560" width="180" height="438" as="geometry" />
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-68" value="获取登录信息" style="" vertex="1" parent="iIuD2MgbGL19CnhBk3a8-67">
           <mxGeometry x="45" y="94" width="110" height="30" as="geometry" />
@@ -405,7 +405,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-73" value="etax_login" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="407" y="560" width="206.25" height="438" as="geometry" />
+          <mxGeometry x="407" y="560" width="180" height="438" as="geometry" />
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-76" value="发送MQ消息" style="" vertex="1" parent="iIuD2MgbGL19CnhBk3a8-73">
           <mxGeometry x="45.129999999999995" y="71" width="110" height="30" as="geometry" />
@@ -440,7 +440,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-82" value="rpa" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="613.25" y="560" width="200" height="438" as="geometry" />
+          <mxGeometry x="587.25" y="560" width="180" height="438" as="geometry" />
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-83" value="消费MQ消息" style="" vertex="1" parent="iIuD2MgbGL19CnhBk3a8-82">
           <mxGeometry x="40.5" y="69" width="110" height="30" as="geometry" />
