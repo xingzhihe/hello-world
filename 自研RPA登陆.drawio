@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T06:30:19.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UelUhfxSA39wPWB54jUm" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T06:31:21.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5XzTNYtsZFKfhSModSCj" version="20.5.2" type="github">
   <diagram id="nDLk0ft438gr6uN_P_It" name="第 1 页">
-    <mxGraphModel dx="2310" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1692" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,6 +410,9 @@
         <mxCell id="iIuD2MgbGL19CnhBk3a8-76" value="发送MQ消息" style="" vertex="1" parent="iIuD2MgbGL19CnhBk3a8-73">
           <mxGeometry x="45.129999999999995" y="71" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="iIuD2MgbGL19CnhBk3a8-73" source="iIuD2MgbGL19CnhBk3a8-77" target="iIuD2MgbGL19CnhBk3a8-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-77" value="返回登陆会话" style="" vertex="1" parent="iIuD2MgbGL19CnhBk3a8-73">
           <mxGeometry x="48.12" y="342" width="110" height="30" as="geometry" />
         </mxCell>
@@ -438,6 +441,9 @@
             <mxPoint as="offset" />
             <mxPoint x="160" y="140" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-112" value="缓存登陆会话" style="" vertex="1" parent="iIuD2MgbGL19CnhBk3a8-73">
+          <mxGeometry x="48.120000000000005" y="391" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-82" value="rpa" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="599" y="599" width="180" height="438" as="geometry" />
