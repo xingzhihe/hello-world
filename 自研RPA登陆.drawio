@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T06:19:00.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Jrvw6T_35wz9JTkduhDY" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T06:19:26.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5BCZgkIerh_2AcKMeExG" version="20.5.2" type="github">
   <diagram id="nDLk0ft438gr6uN_P_It" name="第 1 页">
     <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -468,7 +468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-105" value="采集会话信息" style="" vertex="1" parent="iIuD2MgbGL19CnhBk3a8-82">
-          <mxGeometry x="40.5" y="278" width="110" height="30" as="geometry" />
+          <mxGeometry x="40.5" y="273" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.499;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.502;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="iIuD2MgbGL19CnhBk3a8-82" source="iIuD2MgbGL19CnhBk3a8-87" target="iIuD2MgbGL19CnhBk3a8-86">
           <mxGeometry relative="1" as="geometry">
