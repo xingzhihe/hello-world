@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T04:21:53.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="m1OPy0MGuRtgx_93gMkw" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T04:43:34.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8aeunpxSRADySRQIBerS" version="20.5.2" type="github">
   <diagram id="nDLk0ft438gr6uN_P_It" name="第 1 页">
     <mxGraphModel dx="2048" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-66" value="IP代理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="860" width="193" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-65" value="IP代理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="850" width="193" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-64" value="session-keepalive" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="580" width="193" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-63" value="session-keepalive" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="570" width="193" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-62" value="RPA" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-541" y="860" width="193" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-61" value="RPA" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-551" y="850" width="193" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-49" value="supplier" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry y="840" width="193" height="200" as="geometry" />
         </mxCell>
