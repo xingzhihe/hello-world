@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T11:34:17.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uWGauO8tAkTFWod37svH" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T11:34:56.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="B_IphzdoN_shCsSlukay" version="20.5.2" type="github">
   <diagram id="nDLk0ft438gr6uN_P_It" name="第 1 页">
     <mxGraphModel dx="1865" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,10 +343,7 @@
         <mxCell id="iIuD2MgbGL19CnhBk3a8-24" value="&lt;span style=&quot;&quot;&gt;ip_proxy_&lt;br&gt;center&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="-428" y="336" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iIuD2MgbGL19CnhBk3a8-25" value="supplier-component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="-311.5" y="276" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iIuD2MgbGL19CnhBk3a8-27" value="&lt;span style=&quot;&quot;&gt;supplier_&lt;br&gt;center&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="iIuD2MgbGL19CnhBk3a8-27" value="&lt;span style=&quot;&quot;&gt;captcha_&lt;br&gt;center&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="-311.5" y="336" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iIuD2MgbGL19CnhBk3a8-29" value="&lt;span style=&quot;&quot;&gt;etax_login-linux_jvrpa&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;_application&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
