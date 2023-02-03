@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T07:58:28.713Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.8.16" etag="qOjygoi5OsywjtfzyPUo" type="github"><diagram name="第 1 页" id="e1n1ObZ3Gnplo52WrHWn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-03T10:01:26.341Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ywVWmzVg7yCV2TkriEvo" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="e1n1ObZ3Gnplo52WrHWn">
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NSlAr71lWVcjHdeur5BG-1" value="website" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-2" value="edf-gateway" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-3" value="tax-sb" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-4" value="report-converter" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-5" value="dz-sysmanage" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-6" value="ba" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-7" value="biz-core" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-8" value="biz-scm" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-9" value="gl-asset" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-10" value="gl" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-11" value="edf-openapi" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-12" value="edf-business" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-13" value="edf-component" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-14" value="edf-system" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-15" value="dz-connector" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-16" value="edf-operation-manage" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
