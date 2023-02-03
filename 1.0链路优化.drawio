@@ -1,56 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T10:02:59.951Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TLli3P1L_Q3kq78_ekIK" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T10:11:34.928Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XzkGSDL27fu9F-DCu2-f" version="20.8.16" type="github">
   <diagram name="第 1 页" id="e1n1ObZ3Gnplo52WrHWn">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NSlAr71lWVcjHdeur5BG-18" value="EBC" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="500" height="420" as="geometry" />
+        </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-1" value="website" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="119" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-2" value="edf-gateway" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-3" value="tax-sb" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="790" y="290" width="80" height="40" as="geometry" />
+          <mxGeometry x="164" y="383" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-4" value="report-converter" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="289" y="383" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-5" value="dz-sysmanage" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-6" value="ba" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="413" y="383" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-7" value="biz-core" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-8" value="biz-scm" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="317" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-9" value="gl-asset" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="289" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-10" value="gl" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="164" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-11" value="edf-openapi" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="470" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="164" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-12" value="edf-business" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="413" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-13" value="edf-component" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="470" y="370" width="80" height="40" as="geometry" />
+          <mxGeometry x="164" y="317" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-14" value="edf-system" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="370" width="80" height="40" as="geometry" />
+          <mxGeometry x="289" y="317" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-15" value="dz-connector" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="383" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSlAr71lWVcjHdeur5BG-16" value="edf-operation-manage" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="470" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="413" y="317" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NSlAr71lWVcjHdeur5BG-17" value="edf-webapi" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="289" y="250" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
