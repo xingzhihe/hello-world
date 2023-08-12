@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T02:12:14.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WqAMG-vtZsqOqgDTAiHR" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T02:13:07.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="airDY0umdu4zS3yIZd82" version="21.3.2" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -141,16 +141,16 @@
         <mxCell id="sTs45CZRdDoFSn7NXeSg-7" value="税款所属期" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="890" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sTs45CZRdDoFSn7NXeSg-9" value="勾选" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-9" value="取数" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="890" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sTs45CZRdDoFSn7NXeSg-10" value="统计" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-10" value="勾选" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="890" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sTs45CZRdDoFSn7NXeSg-11" value="确认" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-11" value="统计" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="890" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sTs45CZRdDoFSn7NXeSg-12" value="" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-12" value="确认" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="640" y="890" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
