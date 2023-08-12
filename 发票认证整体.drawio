@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T03:30:59.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JQ_AOX34fPy2RVKaK9T7" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T03:33:10.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fKSC0BmC4yYDRQhl9a1C" version="21.6.8" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -373,7 +373,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NtjbMHKrXhSSU9uYyu6V-16" value="撤销统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-15">
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-16" value="撤销统计申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-15">
           <mxGeometry x="0.0557" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -398,7 +398,69 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NtjbMHKrXhSSU9uYyu6V-19" value="提交统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-18">
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-19" value="提交统计申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-18">
+          <mxGeometry x="0.0557" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-21" value="未确认&lt;br&gt;gxztDm=0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="961" y="1290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-22" value="已确认&lt;br&gt;gxztDm=1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="961" y="1391" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="986" y="1499" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-24" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="986" y="1206" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NtjbMHKrXhSSU9uYyu6V-24" target="NtjbMHKrXhSSU9uYyu6V-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759" y="1275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-26" value="发起申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-25">
+          <mxGeometry x="-0.363" y="-2" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NtjbMHKrXhSSU9uYyu6V-22" target="NtjbMHKrXhSSU9uYyu6V-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1290" as="targetPoint" />
+            <mxPoint x="1095" y="1260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="920" y="1411" />
+              <mxPoint x="920" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-28" value="撤销确认申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-27">
+          <mxGeometry x="0.0557" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-29" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NtjbMHKrXhSSU9uYyu6V-22" target="NtjbMHKrXhSSU9uYyu6V-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1449" y="1171" as="targetPoint" />
+            <mxPoint x="1527" y="1161" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1001" y="1460" />
+              <mxPoint x="1001" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-30" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NtjbMHKrXhSSU9uYyu6V-21" target="NtjbMHKrXhSSU9uYyu6V-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="1370" as="targetPoint" />
+            <mxPoint x="1190" y="1290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="1310" />
+              <mxPoint x="1080" y="1411" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-31" value="提交确认申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-30">
           <mxGeometry x="0.0557" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
