@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T02:34:57.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="whz3CyiSEBYTTsrAnTjE" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T02:40:06.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YroU3flY0MzldYTYJrAv" version="21.3.2" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -190,6 +190,21 @@
             <mxPoint x="785" y="1071" as="targetPoint" />
             <mxPoint x="770" y="1146" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-22" value="进项发票" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="259" y="970" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-23" value="海关缴款书" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="390" y="970" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-24" value="代扣代缴&lt;br&gt;完税凭证" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="521" y="970" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-25" value="农产品发票" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="652" y="970" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-26" value="红字发票" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="783" y="970" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
