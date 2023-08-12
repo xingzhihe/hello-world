@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T02:40:30.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_tuh3ptQObGYoXxO-IYc" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T02:41:04.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6wlbmRca0JnDTNahlAei" version="21.3.2" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -121,19 +121,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-1" value="抵扣勾选" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="259" y="920" width="80" height="40" as="geometry" />
+          <mxGeometry x="259" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-2" value="不抵扣勾选" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="390" y="920" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-3" value="逾期抵扣" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="521" y="920" width="80" height="40" as="geometry" />
+          <mxGeometry x="521" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-4" value="注销勾选" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="652" y="920" width="80" height="40" as="geometry" />
+          <mxGeometry x="652" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-5" value="退税勾选" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="783" y="920" width="80" height="40" as="geometry" />
+          <mxGeometry x="783" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-7" value="税款所属期" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="259" y="1041" width="80" height="40" as="geometry" />
@@ -192,19 +192,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-22" value="进项发票" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="259" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="259" y="960" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-23" value="海关缴款书" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="390" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="960" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-24" value="代扣代缴&lt;br&gt;完税凭证" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="521" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="521" y="960" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-25" value="农产品发票" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="652" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="652" y="960" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-26" value="红字发票" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="783" y="970" width="80" height="40" as="geometry" />
+          <mxGeometry x="783" y="960" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
