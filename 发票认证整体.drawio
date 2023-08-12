@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T03:42:02.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="H1Jygd4mGjB_dzvhSiuo" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T03:45:35.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IvvElzSO8KRhFZ3Qwrcd" version="21.6.8" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -433,6 +433,21 @@
         <mxCell id="NtjbMHKrXhSSU9uYyu6V-31" value="提交确认申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-30">
           <mxGeometry x="0.0557" y="1" relative="1" as="geometry">
             <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-32" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NtjbMHKrXhSSU9uYyu6V-22" target="NtjbMHKrXhSSU9uYyu6V-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="1656" as="targetPoint" />
+            <mxPoint x="545" y="1757" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1777" />
+              <mxPoint x="560" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtjbMHKrXhSSU9uYyu6V-33" value="撤销统计申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtjbMHKrXhSSU9uYyu6V-32">
+          <mxGeometry x="0.0557" y="1" relative="1" as="geometry">
+            <mxPoint y="13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
