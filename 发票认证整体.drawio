@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T02:11:08.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5NVVfga_4dqkBPXvBYSi" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T02:12:14.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WqAMG-vtZsqOqgDTAiHR" version="21.3.2" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -138,20 +138,20 @@
         <mxCell id="sTs45CZRdDoFSn7NXeSg-6" value="" style="whiteSpace=wrap;html=1;rounded=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="700" y="770" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sTs45CZRdDoFSn7NXeSg-7" value="" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="160" y="860" width="80" height="40" as="geometry" />
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-7" value="税款所属期" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sTs45CZRdDoFSn7NXeSg-9" value="" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="870" width="80" height="40" as="geometry" />
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-9" value="勾选" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="890" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sTs45CZRdDoFSn7NXeSg-10" value="" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="880" width="80" height="40" as="geometry" />
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-10" value="统计" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="890" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sTs45CZRdDoFSn7NXeSg-11" value="" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="190" y="890" width="80" height="40" as="geometry" />
+        <mxCell id="sTs45CZRdDoFSn7NXeSg-11" value="确认" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="890" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sTs45CZRdDoFSn7NXeSg-12" value="" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="900" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="890" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
