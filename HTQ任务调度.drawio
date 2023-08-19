@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T18:32:37.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FC-51ex2nTCI85jViNOm" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T18:32:56.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bpBqEhN7VGVxlKri1UO6" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2062" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -659,7 +659,7 @@
         <mxCell id="QMsv-DiaqINXNzL8N9ag-198" value="任务分组机器人配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
           <mxGeometry x="10" y="318" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-200" value="任务分组和任务队列中间还有个appkey队列：&lt;br&gt;&amp;nbsp; &amp;nbsp; 任务分组&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;appKey(轮询)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;任务队列" style="text;html=1;strokeColor=none;fillColor=#ffff88;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-200" value="任务分组和任务队列中间还有个appkey队列：&lt;br&gt;&amp;nbsp; &amp;nbsp; 任务分组&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;appKey(&lt;font color=&quot;#ff0000&quot;&gt;轮询&lt;/font&gt;)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;任务队列" style="text;html=1;strokeColor=none;fillColor=#ffff88;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="690" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-201" value="任务队列内部按照优先级+创建时间排序" style="text;html=1;strokeColor=none;fillColor=#ffff88;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
