@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T17:14:42.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yImSogwxuX3HRR8ctDIc" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T17:16:20.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Ysq1vTl0my4OGwPKLsyu" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1500" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="QMsv-DiaqINXNzL8N9ag-197" value="任务总览" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="20" width="1240" height="160" as="geometry" />
+          <mxGeometry x="270" y="20" width="1070" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-171" value="税局登陆" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;align=center;spacingLeft=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1388" y="199" width="212" height="630" as="geometry" />
@@ -628,28 +628,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-189" value="任务发起" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="214" y="121" width="150" height="40" as="geometry" />
+          <mxGeometry x="300" y="121" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-190" value="任务排队" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="417" y="121" width="150" height="40" as="geometry" />
+          <mxGeometry x="477" y="121" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-191" value="任务分发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="121" width="150" height="40" as="geometry" />
+          <mxGeometry x="653" y="121" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-192" value="任务执行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="815" y="121" width="150" height="40" as="geometry" />
+          <mxGeometry x="830" y="121" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-193" value="任务结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1015" y="121" width="150" height="40" as="geometry" />
+          <mxGeometry x="1006" y="121" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-194" value="任务完成回调" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1219" y="121" width="150" height="40" as="geometry" />
+          <mxGeometry x="1183" y="121" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-195" value="任务查询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="214" y="42" width="150" height="40" as="geometry" />
+          <mxGeometry x="300" y="42" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-196" value="任务取消" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="417" y="42" width="150" height="40" as="geometry" />
+          <mxGeometry x="477" y="42" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
