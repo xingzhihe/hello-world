@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T17:53:18.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="APFMV4Zsaq53qSK7OJ6K" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T17:55:20.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_SqUQA5rDx1Z1o7dgg_O" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2140" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -737,7 +737,7 @@
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-221" value="发起任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QMsv-DiaqINXNzL8N9ag-220">
           <mxGeometry x="-0.1739" relative="1" as="geometry">
-            <mxPoint y="-15" as="offset" />
+            <mxPoint x="-20" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-222" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.993;exitY=0.555;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QMsv-DiaqINXNzL8N9ag-170" target="QMsv-DiaqINXNzL8N9ag-168">
@@ -766,7 +766,17 @@
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-225" value="重发任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QMsv-DiaqINXNzL8N9ag-224">
           <mxGeometry x="-0.1739" relative="1" as="geometry">
-            <mxPoint y="240" as="offset" />
+            <mxPoint x="-10" y="277" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-226" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QMsv-DiaqINXNzL8N9ag-160" target="QMsv-DiaqINXNzL8N9ag-210">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1110" as="sourcePoint" />
+            <mxPoint x="210" y="1175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="1098" />
+              <mxPoint x="250" y="940" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
