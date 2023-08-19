@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T17:17:59.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2HmPxojwW7RY2c2DBtl_" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T17:21:58.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JEwuQ9VnYTOGJ-vkLEFN" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1615" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -107,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.135;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QMsv-DiaqINXNzL8N9ag-4" target="WIyWlLk6GJQsqaUBKTNV-6">
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.003;exitY=0.112;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QMsv-DiaqINXNzL8N9ag-4" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="688" y="379" as="sourcePoint" />
             <mxPoint x="477.5" y="379" as="targetPoint" />
@@ -336,48 +336,6 @@
               <mxPoint x="1388" y="641" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-87" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="495" y="326" width="160" height="316" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;verticalAlign=top;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry width="160" height="316" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-5" value="任务分组配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="20" y="39" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-11" value="公共组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="10" y="263" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-12" value="普华" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="16" y="98.99000000000001" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-15" value="安永" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="16" y="131" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-16" value="合力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="85" y="98.99000000000001" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-17" value="容津" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="85" y="131" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-18" value="javaRPA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="16" y="196" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-19" value="pyRPA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="85" y="196" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-20" value="发票归集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="16" y="164" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-21" value="41/45" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="16" y="229.00000000000006" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-22" value="沙箱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="85" y="229.00000000000006" width="60" height="20.02" as="geometry" />
-        </mxCell>
-        <mxCell id="QMsv-DiaqINXNzL8N9ag-24" value="发票认证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-87">
-          <mxGeometry x="85" y="164" width="60" height="20.02" as="geometry" />
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-90" value="PUBLIC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="902" y="755" width="120" height="30" as="geometry" />
@@ -650,6 +608,51 @@
         </mxCell>
         <mxCell id="QMsv-DiaqINXNzL8N9ag-196" value="任务取消" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="477" y="42" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-199" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="495" y="326" width="160" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;verticalAlign=top;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry width="160" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-5" value="任务分组配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="20" y="39" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-11" value="公共组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="10" y="263" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-12" value="普华" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="16" y="98.99000000000001" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-15" value="安永" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="16" y="131" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-16" value="合力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="85" y="98.99000000000001" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-17" value="容津" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="85" y="131" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-18" value="javaRPA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="16" y="196" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-19" value="pyRPA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="85" y="196" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-20" value="发票归集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="16" y="164" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-21" value="41/45" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="16" y="229" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-22" value="沙箱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="85" y="229" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-24" value="发票认证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;aspect=fixed;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="85" y="164" width="60" height="20.02" as="geometry" />
+        </mxCell>
+        <mxCell id="QMsv-DiaqINXNzL8N9ag-198" value="任务分组机器人配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="QMsv-DiaqINXNzL8N9ag-199">
+          <mxGeometry x="10" y="318" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
